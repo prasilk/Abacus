@@ -1,0 +1,26 @@
+body {
+	background:#6fbaea;
+	font-family:tahoma;
+}
+
+#mainbox {
+	border-radius:10px;
+	background:white;
+	padding:20px;
+	margin:0 auto;
+	width:800px;
+}
+
+#button {
+	background:#0ec023;
+	padding:15px;
+	color:white;
+	text-decoration:none;
+	font-family:verdana;
+	border-radius:10px;
+	
+}
+
+#scimg {
+	width:800px;
+}

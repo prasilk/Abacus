@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Abacus&#8482 File not found</title>
+<link rel="stylesheet" type="text/css" href="abacus_style.css">
+</head>
+
+<body>
+<div id="boxer">
+<a href="index.php">Abacus Homepage</a> &gt; File not found
+<h2>You are in the wrong neighbourhood.<br> Technical problem perhaps.<br>404 - File not found.<br></h2>
+<a href="index.php">Goto Abacus Homepage</a>
